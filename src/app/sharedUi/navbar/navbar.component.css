@@ -1,0 +1,22 @@
+*{
+    font-size: 20px;
+}
+a{
+    color: #5F9EA0;
+}
+a:hover{
+    color: #54d9dd;
+}
+
+.dropdown-menu{
+    background-color: #1e1e1e;
+    color: #5F9EA0;
+    border: none;
+}
+.dropdown-item:hover{
+    background-color: #1e1e1e;
+    color: #54d9dd;
+}
+.navbar-toggler{
+    color: #5F9EA0;
+}
